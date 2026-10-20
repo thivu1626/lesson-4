@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="title_list">Danh Sách Sinh Viên</string>
+    <string name="btn_add">Thêm Sinh Viên</string>
+    <string name="msg_confirm_delete">Bạn có muốn xóa thông tin SV này không?</string>
+</resources>
